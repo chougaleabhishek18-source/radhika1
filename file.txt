@@ -1,0 +1,5 @@
+college management system
+module1: student registration
+module2: student login
+module3:teacher registration
+module5:teacher login
